@@ -65,6 +65,24 @@
 		}
 	
 ],
+"table": [
+	{
+		"name": "Magic Table E1",
+		"isShown": true,
+		"source": "ELHB",
+		"page": 100,
+		"items": [
+			{
+				"row": "Potion of Supreme Healing",
+				"weight": "1"
+			},
+			{
+				"row": "Potion of Superior Invisibility",
+				"weight": "1"
+			}
+		]
+	}
+],
 "reward": [
     {
 		"name": "Boon of Attunement",

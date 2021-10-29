@@ -1,0 +1,1108 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "EpicLevelHandbook",
+				"abbreviation": "ELHB",
+				"full": "Epic Level Handbook",
+				"authors": [
+					"saricmaxim"
+				],
+				"version": "1.0.0",
+				"url": "https://github.com/Test",
+				"targetSchema": "1.0.0"
+			}
+		],
+		"dateAdded": 0,
+		"dateLastModified": 0
+	},
+	"item": [
+		{
+			"name": "Armor of the Celestial Battalion",
+			"source": "ELHB",
+			"page": 152,
+			"srd": true,
+			"baseItem": "chain mail|phb",
+			"type": "HA",
+			"tier": "epic",
+			"rarity": "epic",
+			"reqAttune": true,
+			"weight": 55,
+			"ac": 16,
+			"strength": "13",
+			"stealth": true,
+			"entries": [
+				"This +3 chainmail is so fine and light that it can be worn under normal clothing without revealing its presence. It has a maximum Dexterity bonus of +5. It is considered light armor, and it allows the wearer to fly (as the {@spell Fly| PHB} spell) while wearing the armor. Furthermore, the wearer is at all times surrounded by a {@spell Magic Circle| PHB} effect (as the spell, DC 19) centered on the wearer which, if dispelled, can be created again as a bonus action."
+			]
+		},
+		{
+			"name": "Ring of Rapid Healing",
+			"type": "RG",
+			"tier": "epic",
+			"rarity": "epic",
+			"source": "ELHB",
+			"reqAttune": true,
+			"entries": [
+				"While wearing this ring, you regain 3 hit points every round at the start of your turn, provided that you have at least 1 hit point."
+			]
+		}
+	
+],
+"reward": [
+    {
+		"name": "Boon of Attunement",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You gain the ability to have one additional magic item attunement. You also gain the ability to attune or unattune to any number of items during a short rest even while identifying an object."
+		]
+	},
+    {
+		"name": "Boon of Armored Skin",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Parts of your skin are covered by hardened material such as scales, chitin, toughened hide, etc.  When you aren't wearing armor, your AC equals 15 + your Dexterity modifier. If you already have a class or racial ability that grants a similar feature, such as unarmored defense or draconic resilience  increase its AC benefit by 2. "
+		]
+	},
+    {
+		"name": "Boon of Augmented Alchemy",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You can craft any potion that you can make as part of a long rest instead of its normal crafting time. In addition, your alchemy crafting is improved when crafting acid, alchemist's fire, antitoxins."
+		]
+	},
+
+	{
+		"name": "Boon of Subtle Casting",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"All of your spells of 1st through 3rd level are altered to not have any somatic or verbal components. "
+		]
+	},
+	{
+		"name": "Boon of Enemy Bane",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Any time you roll a damage roll against one of your favored enemies, the weapon, spell or effect deals an extra {@damage 2d6} damage and bypasses any of the creature's damage resistances. "
+		]
+	},
+	{
+		"name": "Boon of Bestial Companionship",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You gain the Ranger's companion class feature with the following alterations: There is no size limitation category of the companion, and the challenge rating of the creature can increase to a CR of up to 1/4th of your level or lower."
+		]
+	},
+	{
+		"name": "Boon of Monstrous Wild Shape",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You can use your wild shape class ability to take the form of a monstrosity. The maximum challenge rating you can shift into is your level divided by 3, rounded down"
+		]
+	},
+	{
+		"name": "Boon of Blinding Speed",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"As a reaction, you can choose to act as if the {@spell Haste| PHB} spell was cast on you which lasts until the end of your turn, or up to five rounds. The five rounds need not be consecutive and maintaining this effect does not require concentration nor causes the typical wave of lethargy.  Once you do expend all your 5 rounds for the day, you can't activate this ability again until you finish a long rest."
+		]
+	},
+	{
+		"name": "Boon of Divinity",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Choose a cleric domain or paladin oath related to your deity provided that you already have one. You now have access to that domain’s or oath’s spell list and channel divinity power(s). You also gain an additional use of channel divinity. "
+		]
+	},
+	{
+		"name": "Boon of Chaotic Rage",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"If you can rage, you gain the Wild Surge class feature from the Wild Soul primal path. While in a rage, all weapon damage dice you roll deals an extra {@damage 2d6} damage. "
+		]
+	},
+	{
+		"name": "Boon of Combat Archery",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"While wielding a ranged weapon, you can take an opportunity attack with the ranged weapon against any enemy who moves within 30 feet of you."
+		]
+	},
+	{
+		"name": "Boon of Legendary Crafting",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You gain the recipes needed to craft 3 magic items of your choice. In addition, when crafting normal or magical items, the time in workweeks required to make the item is reduced by 90%."
+		]
+	},
+	{
+		"name": "Boon of Deafening Song",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Whenever you activate your Bardic Inspiration Die, you can cause all enemies to be deafened for up to a minute unless they succeed on a constitution saving throw with a  DC equal to 8 + your proficiency bonus + your charisma modifier. While deafened with this ability, affected creatures initiative  is immediately lowered by 4 and any spells cast with a verbal component require a standard concentration check to cast successfully."
+		]
+	},
+	{
+		"name": "Boon of Enemy Death",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Any time you score a critical hit against one of your favored enemies, it must make a fortitude saving throw DC 8+Prof+Str or Dex) or take {@damage 6d6} additional damage/half damage on a successful save."
+		]
+	},
+	{
+		"name": "Boon of Devestating Critical",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Choose a weapon type such as (axe/spear/whip/sword/etc). Any time you score a critical hit with your chosen weapon type, the creature must make a fortitude saving throw (DC 8+Prof+Str or Dex) or take {@damage 6d6} additional damage/half damage on a successful save."
+		]
+	},
+	{
+		"name": "Boon of Dexterous Fortitude",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Your slippery mind feature grants the following benefit: When targeted by an effect that requires a Strength or Constitution or saving throw, you may make a Dexterity saving throw instead to avoid the effect (evasion does not apply). You can only use this ability once per round."
+		]
+	},
+	{
+		"name": "Boon of Dexterous Will",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Your slippery mind feature grants the following benefit: When targeted by an effect that requires a Wisdom or Charisma saving throw, you may make a Dexterity saving throw instead to avoid the effect (evasion does not apply). You can only use this ability once per round."
+		]
+	},
+	{
+		"name": "Boon of Dire Charge",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"If you take the dash action as an action and end your movement within melee reach of an opponent, you can take the attack action as a bonus action."
+		]
+	},
+	{
+		"name": "Boon of Distant Shot",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You may throw a thrown weapon or fire a ranged weapon at any target within sight, with no penalty for range."
+		]
+	},
+	{
+		"name": "Boon of Draconic Wild Shape",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You can use your wild shape feature to take the form of a dragon. The maximum challenge rating you can shift into is your level divided by 3, rounded down."
+		]
+	},
+	{
+		"name": "Boon of the Frostblood",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You have immunity to cold damage. You can also cast {@spell Cone of Cold| PHB} (save DC 15) without using a spell slot or any components. Once you cast the spell in this way, you can't cast it again until you take a short rest."
+		]
+	},
+	{
+		"name": "Boon of Corrosive Might",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You have immunity to acid damage. You can also cast {@spell Vitriolic Sphere| XGE} (save DC 15) without using a spell slot or any components. Once you cast the spell in this way, you can't cast it again until you take a short rest."
+		]
+	},
+	{
+		"name": "Boon of Enhanced Spells",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Whenever you cast a spell and increase its additional effects with a higher level spell slot, you determine the effects as if you had used a spell slot 1 level higher."
+		]
+	},
+	{
+		"name": "Boon of Epic Dodge",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Whenever you use your uncanny dodge class feature, you impose disadvantage on the triggering attack roll. If the attack misses, you can make it target another creature within 5 feet of you."
+		]
+	},
+	{
+		"name": "Boon of Legendary Endurance",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Whenever you make a saving throw against an effect that can cause exhaustion, you gain a +10 bonus to the roll. You also do not fall unconscious when you fall to 0 hit points."
+		]
+	},
+	{
+		"name": "Boon of Epic Inspiration",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Whenever you utilize your bardic inspiration or song of rest class features, you get to roll an extra die for the feature's effect."
+		]
+	},
+	{
+		"name": "Boon of Epic Reflexes",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You suffer no negative effects from the prone condition and can instantly stand up from without spending any movement speed. You also have advantage on Dexterity saving throws."
+		]
+	},
+	{
+		"name": "Boon of Epic Reputation",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You gain Advantage to all Charisma Checks."
+		]
+	},
+	{
+		"name": "Boon of Epic Skill Focus",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Choose a skill, you gain a +10 bonus to checks with that skill and you can use the skill as a bonus action instead of an action."
+		]
+	},
+	{
+		"name": "Boon of Spell Focus",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Choose a school of magic, creatures who make saving throws against spells you cast of the school of magic you selected have disadvantage on their saving throws. "
+		]
+	},
+	{
+		"name": "Boon of Spell Penetration",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Enemies that are targeted by your spells do not gain the benefit of spell resistance."
+		]
+	},
+	{
+		"name": "Boon of Epic Spellcasting",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You gain a level 10 spell slot. This spell slot can be used to prepare/know a spell effect.  This can duplicate the effect of any spell with the following changes:",
+			"The Spell’s range is up to 150 feet.",
+			"If it deals damage or heals, the numeric effect is against a single target {@damage 18d10} (100) and 1{@damage 15d6} (52) if against multiple targets.",
+			"The duration of the spell is doubled. "
+		]
+	},
+	{
+		"name": "Boon of Epic Weapon Specialization",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Choose one specific type of weapon, (Longsword, Battleaxe, Dagger, etc). You gain advantage to all attack rolls and deal maximum damage on damage rolls made with your chosen weapon."
+		]
+	},
+	{
+		"name": "Boon of Unshakeable Will",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You are immune to being charmed or frightened and you have advantage on Wisdom Saving Throws."
+		]
+	},
+	{
+		"name": "Boon of Exceptional Deflection",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"As a reaction, you can deflect a ranged weapon attack or ranged spell attack. You reduce the damage by 2d10+your dexterity modifier + your level. If you reduce the damage to 0, you can reflect the attack to any other target within 60 feet making a ranged attack against them. "
+		]
+	},
+	{
+		"name": "Boon of Familiar Spell",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Whenever you cast a spell, your familiar (as a reaction) can deliver the spell as if it was casting the spell. In addition, choose one spell you know of up to 8th level. Your familiar can cast this spell as a spell like ability. Once it casts it in this way it cannot use it until you take a long rest."
+		]
+	},
+	{
+		"name": "Boon of Fast Healing",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"ou regain 3 hit points every round at the start of your turn, provided that you have at least 1 hit point. "
+		]
+	},
+	{
+		"name": "Boon of Gargantuan Wild Shape",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"When you wild shape into a form, you can increase the size of your form up to gargantuan. For every size category increased you gain the following benefits: you gain an extra damage die and your reach increases by 5 feet, and your hit dice increases by one step."
+		]
+	},
+	{
+		"name": "Boon of Great Smiting",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Whenever you deal damage with your divine smite feature or a smite related spell, deal double the smite damage dice even if it takes you past the maximum. "
+		]
+	},
+	{
+		"name": "Boon of Group Inspiriation",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Whenever you use your Bardic Inspiration class feature, you can target two creatures with its usage instead of one."
+		]
+	},
+	{
+		"name": "Boon of Divine Strike",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"As long as you have a use of channel divinity available, any weapon you wield deals {@damage 2d6} radiant damage on a hit(damage type can be altered based off of your alignment/diety necrotic(evil), thunder (thunder god), etc). If you use channel divinity and have no uses left, this effect dissipates after one minute."
+		]
+	},
+	{
+		"name": "Boon of Ignore Material Components",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You may cast your spells without any material components, even if it has a cost."
+		]
+	},
+	{
+		"name": "Boon of Enhanced Domain Spells",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"When casting spells from your domain, they are automatically considered to be one spell slot higher.  In addition, You may cast any spell on your domain list up to 5th level without expending a spell slot. Once you use this ability, you cannot reuse it until after taking a short rest. "
+		]
+	},
+	{
+		"name": "Boon of Focus",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"When using a class feature that is not a spell and requires a saving throw, the target gains disadvantage on the saving throw."
+		]
+	},
+	{
+		"name": "Boon of Aura Mastery",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"If you have an aura as a class feature, its range is extended to 100 feet. In addition, you gain a new aura of your choice from another paladin oath you currently do not have."
+		]
+	},
+	{
+		"name": "Boon of Battle Casting",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You gain a +10 bonus to saving throws to maintain concentration, You can also cast ranged spells in melee without disadvantage."
+		]
+	},
+	{
+		"name": "Boon of Legendary Reflexes",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You can use a reaction once per turn. "
+		]
+	},
+	{
+		"name": "Boon of Elemental Might",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Your ability to wild shape into an elemental is expanded to include all elemental creatures (not just air,earth,fire and water elementals) of any size that you can take when using wild shape to become an animal. The maximum challenge rating you can shift into is your level divided by 3, rounded down."
+		]
+	},
+	{
+		"name": "Boon of Enemy Hatred",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You gain the following benefits depending on the feature you have.",
+			"Favored Enemy: Gain an additional favored enemy creature type.  You gain a +10 bonus to survival checks to track your favored enemies, and intelligence checks to recall information about them. You also gain advantage on saving throws from effects that originate from your favored enemies.",
+			"Favored Foe: You gain a +10 bonus to checks to maintain concentration on your favored foe feature, and the extra damage it deals increases by 2d8. When you roll initiative and have no uses of favored foe, you regain one use of it. "
+		]
+	},
+	{
+		"name": "Boon of Ki Empowerment",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Your ki-empowered strikes feature gains the additional properties: Your unarmed strikes count as epic weapons for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. When you spend a ki point during your turn, you unarmed strikes deal {@damage 2d6} extra damage until the start of your next turn."
+		]
+	},
+	{
+		"name": "Boon of Psionic Manifestation",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"When utilizing psionic dice you can choose to spend up to two to double the effect, range and duration of your psionic abilities."
+		]
+	},
+	{
+		"name": "Boon of Epic Manyshot",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"When taking the attack action with a ranged weapon, you can instead choose to make a single attack roll with advantage. If the attack hits, roll damage as if you had hit the opponent with two attacks instead of one. If you have the extra attack class feature, you can roll additional damage dice for each extra attack you are allowed."
+		]
+	},
+	{
+		"name": "Boon of Flowing Metamagic",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			" When using the metamagic class feature, reduce the amount of sorcery points required to use the option by 1 (This cannot reduce the cost below one sorcery point). In addition, when using metamagic options that have original costs of 1 sorcery point, you can choose to use two for the cost of one sorcery point."
+		]
+	},
+	{
+		"name": "Boon of Epic Sneak Attack",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Your Sneak Attack Class feature's damage increases by {@damage 4d6}. You can also sneak attack even if you have disadvantage on your attack roll."
+		]
+	},
+	{
+		"name": "Boon of Spell Capacity",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"If you can cast the maximum level of spell in a class, you gain an additional slot depending on which type you have. (4th: You gain 2 level 5 slots. 5th: You gain 2 level 6 slots. 9th: You gain 1 level 10 slot. "
+		]
+	},
+	{
+		"name": "Boon of the Whirlwind Strike",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"When taking the attack action, you can instead move up to your speed and make one melee attack at each opponent that you can reach."
+		]
+	},
+	{
+		"name": "Boon of Rage Incitement",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"When you enter a rage or frenzy, you can make your willing allies within 60 feet also enter the same rage/frenzy."
+		]
+	},
+	{
+		"name": "Boon of Instant Reloading",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Choose a weapon with the loading property, you ignore its loading property. In addition when making the attack action with the chosen weapon, you gain an additional attack with advantage."
+		]
+	},
+	{
+		"name": "Boon of Spell Intensification",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You can spend 7 sorcery points to maximize and double the numeric roll of a spell you cast."
+		]
+	},
+	{
+		"name": "Boon of Keen Strikes",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Unarmed attacks you make can critically hit on a 19 or higher."
+		]
+	},
+	{
+		"name": "Boon of Lasting Inspiration",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"When a creature gains a bardic inspiration die, it can reuse the die once after it is used as long as it is spent within an hour."
+		]
+	},
+	{
+		"name": "Boon of Legendary Athleticism",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You gain a climbing and swimming speed equal to double your walking speed. In addition the distance of jumps you attempt is doubled regardless if you have enough movement speed. Lastly, you can choose to use your Dexterity score for calculating leap distance instead of strength."
+		]
+	},
+	{
+		"name": "Boon of Legendary Command",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			" If you have any expenditures for hirelings or followers, you can gain 10x the amount if available for the same cost as people are likely to follow or aid you based off of your legendary status."
+		]
+	},
+	{
+		"name": "Boon of Legendary Riding",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"It costs you no movement speed to mount or dismount a creature. You can direct a mounted creature (not individual) to perform any of its normal actions while mounted. While mounted, you are considered to have cover. "
+		]
+	},
+	{
+		"name": "Boon of Legendary Tracking",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You can track at any travel pace without penalty and gain +10 bonus to survival checks to track. In addition you can track creatures over water (DC 25), underwater (DC 30) or by air (DC 35)."
+		]
+	},
+	{
+		"name": "Boon of Legendary Wrestling",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You gain a +10 on athletics checks to grapple or escape a grapple. In addition, you can grapple a creature up to two size categories larger than you."
+		]
+	},
+	{
+		"name": "Boon of Lingering Damage",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Your Sneak attacks apply damage again at the start of your next turn."
+		]
+	},
+	{
+		"name": "Boon of Item Channeling",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"When using a magical item that has charges, you can instead use a spell slot of the appropriate spell level instead. If the item doesn't list a spell, you can use a spell slot depending on its rarity. Common (Level 1+) Uncommon (Level 3+) Rare (Level 5+) Very Rare (Level 7+), Legendary (Level 9+), Artifact (Level 10+)"
+		]
+	},
+	{
+		"name": "Boon of Mighty Rage",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"While in a rage, you gain advantage on will saving throws, and double your rage bonus damage. In addition, you deal double damage to objects."
+		]
+	},
+	{
+		"name": "Boon of Multispell",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"If you cast a spell as a bonus action, you are not restricted in casting another spell during the same turn that isn't a cantrip. You can also cast spells that have a cast time of a bonus action with an action. "
+		]
+	},
+	{
+		"name": "Boon of Unholy Burst",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You can use your channel divinity feature to cast the {@spell Negative Energy Flood| XGE} Spell. If you have the Destroy Undead Feature, a creature of that CR or less automatically fails the saving throw. "
+		]
+	},
+	{
+		"name": "Boon of Damage Penetration",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Your weapon attacks always deal normal damage to creatures with resistance or immunities."
+		]
+	},
+	{
+		"name": "Boon of Perfect Two Weapon Fighting",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"When fighting with two weapons, when you take the bonus action to attack with your off hand weapon, you can attack an additional time with your off-hand weapon."
+		]
+	},
+	{
+		"name": "Boon of Permanent Emanation",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Designate a spell you can cast with a range is self of up to 3rd level and a duration of a minute or more. It is permanent and does not require concentration. You dismiss/recast the spell as a bonus action. Effects that dispel or counter it supress the spell for 2d4 rounds."
+		]
+	},
+	{
+		"name": "Boon of Planar Turning",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You can use your channel divinity features that target undead to also target celestials, fiends, elementals and fey."
+		]
+	},
+
+	{
+		"name": "Boon of Plant Wild Shape",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You can use your wild shape feature to turn into an plant.  The maximum challenge rating you can shift into is your level divided by 3, rounded down."
+		]
+	},
+
+	{
+		"name": "Boon of Polyglotism",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You can speak and read all languages."
+		]
+	},
+	{
+		"name": "Boon of Positive Energy Aura",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"If you have the Channel Divinity feature, Every Undead Creature that comes within 15 feet of you is automatically affected as if you had used the turn undead cleric ability against them. This does not use a channel divinity attempt. "
+		]
+	},
+	{
+		"name": "Boon of Improved Bardic Inspiration",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Any of your abilities that use bardic inspiration have their ranges doubled. In addition, after their effects have subsided they grant the creature inspiration. Lastly, you can use your bardic inspiration abilities as one of your free interaction actions instead of a bonus action during combat."
+		]
+	},
+	{
+		"name": "Boon of Shifting Space",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Your attacks and spells can target a creature on the ethereal plane from the material plane."
+		]
+	},
+	{
+		"name": "Boon of Spectral Strike",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"As an action you can choose to become blurred as the spell (no concentration required). You remain blurred until you are hit by an attack. Alternatively, you can choose to try to retain concentration on the spell if you choose and are not currently concentrating on another spell. "
+		]
+	},
+
+	{
+		"name": "Boon of Spell Knowledge",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You gain 4 new spells known from your list of available spells. "
+		]
+	},
+	{
+		"name": "Boon of Spell Stowaway",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"If a spell you know or have prepared is cast within 300 feet of you as a reaction you can immediately cast the spell on yourself or at appropriate targets without using a spell slot. Once you use this ability, you cannot use it again until you take a long rest. "
+		]
+	},
+	{
+		"name": "Boon of Disrupting Focus",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"When a spellcaster is concentrating on a spell and starts its turn or enters within your reach it must make a concentration saving throw with disadvantage."
+		]
+	},
+	{
+		"name": "Boon of Sponteanous Spell",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"When casting a spell you can choose to cast a spell you haven't currently prepared or currently know as long as it is from your spell list. Once you use this ability, you cannot reuse it until after taking a short or long rest."
+		]
+	},
+	{
+		"name": "Boon of Missile Storms",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"When taking the attack action, you can instead make an attack with a ranged or thrown weapon at each opponent within 30 feet. "
+		]
+	},
+	{
+		"name": "Boon of Superior Initiative",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You gain a +10 bonus on initiative checks, if there is a tie in your initiative score and another creature, you always go first. In addition, if you are surprised, you can still take actions as normal during the surprise round."
+		]
+	},
+	{
+		"name": "Boon of Tenacious Magic",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"When a spell you cast ends due to lost concentration or dispelled, as a reaction, you can have its effects return automatically. Once you use this ability, you cannot reuse it until after taking a short or long rest."
+		]
+	},
+	{
+		"name": "Boon of Terrifying Rage",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"When you enter a rage, any enemy that can see you must make a wisdom saving throw (8+prof+charisma modifier) or be frightened. In addition, if you reduce an enemy to 0 hit points or deal a critical hit, all enemies within sight must make a saving throw again or be frightened."
+		]
+	},
+	{
+		"name": "Boon of Thundering Rage",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"While in a rage, your voice booms up to ten times louder and you deal {@damage 2d6} extra thunder damage on your weapon attacks."
+		]
+	},
+	{
+		"name": "Boon of Trap Sense",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You gain a +10 bonus on checks made to recognize, identify or disarm a trap. If you have blindsense, you automatically detect a trap within its radius."
+		]
+	},
+	{
+		"name": "Boon of Rending",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"When you hit an enemy with your main hand and off hand melee weapons on your turn, you may automatically rend the opponent and deal damage as if you had critically hit with both weapons. If you have the extra attack or multiattack feature, you can only deal critical damage once with your main weapon."
+		]
+	},
+	{
+		"name": "Boon of Uncanny Accuracy",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You never have disadvantage when making a ranged attack."
+		]
+	},
+
+	{
+		"name": "Boon of Vorpal Strikes",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"Your unarmed strikes are considered to be a vorpal weapon."
+		]
+	},
+	{
+		"name": "Boon of Undead Mastery",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You do not need to re-cast a spell or effect to maintain or re-assert control over an undead creature under your command by an {@spell Animate Dead| PHB} or {@spell Create Undead| PHB}spell. "
+		]
+	},
+	{
+		"name": "Boon of Deathly Animation",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You can use your channel divinity feature to cast the {@spell Animate Dead| PHB} or {@spell Summon Undead| TCE} spell. "
+		]
+	},
+
+	{
+		"name": "Boon of the Divine Aresenal",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"When Wielding your deity's chosen weapon and take the attack action you make an additional attack with it as per the extra attack feature.  In addition, you automatically gain a fighting style that matches the weapon type. For example: if your deities' chosen weapon is a bow, you could get gainthe archery fighting style. "
+		]
+	},
+	{
+		"name": "Boon of Channeled Expertise",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"When taking the attack action, you can instead cast a spell from a wand or staff as one of your attacks."
+		]
+	},
+	{
+		"name": "Boon of Oversized Weaponry",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You can wield weapons that are one size category larger than you without penalty. For example, you could wield an ogre's club (2d8). "
+		]
+	},
+	{
+		"name": "Boon of Legendary Concentration",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You can maintain concentration on up to two spells at a time."
+		]
+	},
+	{
+		"name": "Boon of Relentless Strikes",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"If you have the extra attack feature, you gain an additional attack. If you don't have the extra attack feature, you gain it. "
+		]
+	},
+	{
+		"name": "Boon of Martial Mastery",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You gain an additional two fighting styles available to you, otherwise you gain two fighting style feature from the fighter class if you already do not have one. In addition, if you have the martial versatility feature, it can be used every short rest. "
+		]
+	},
+	{
+		"name": "Boon of Legendary Expertise",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"If you have the expertise feature, You have expertise in all skills and tools that you are proficient with."
+		]
+	},
+	{
+		"name": "Boon of Legendary Resistance",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"If you fail a saving throw, you can choose to succeed instead. You can use this ability up to 3 times and regain all uses after a long rest."
+		]
+	},
+	{
+		"name": "Boon of Great Charisma",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You increase your Charisma Score by 4, up to a maximum of 30."
+		]
+	},
+	{
+		"name": "Boon of Great Charisma",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You increase your Charisma Score by 4, up to a maximum of 30."
+		]
+	},
+	{
+		"name": "Boon of Great Constitution",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You increase your Constitution Score by 4, up to a maximum of 30."
+		]
+	},
+	{
+		"name": "Boon of Great Intelligence",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You increase your Intelligence Score by 4, up to a maximum of 30."
+		]
+	},
+	{
+		"name": "Boon of Great Strength",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You increase your Strength Score by 4, up to a maximum of 30."
+		]
+	},
+	{
+		"name": "Boon of Great Wisdom",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You increase your Wisdom Score by 4, up to a maximum of 30."
+		]
+	},
+	{
+		"name": "Boon of Third Wind",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You gain an additional use of second wind. In addition, your second wind's effectiveness is always the maximum dice roll and doubled. "
+		]
+	},
+	{
+		"name": "Boon of Arcane Trickery",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"If you have the mage hand legdermain feature, you gain an extra known spell and an extra spell slot equal to the highest level than you can cast with arcane trickster. Your mage hand also gains the following additional benefits: <br> You can have the hand assist in casting spells on your behalf: Which can include the following (doing the somatic components of a spell while your hands are full, originating the spell's effect from its location, deliver a touch attack, etc) <br> You can command the hand to attack with a weapon it is currently holding as if you were attacking with it. <br> Can be used to hold a person or object aloft above the ground and move up to 60 feet."
+		]
+	},
+	{
+		"name": "Boon of Arcane Trickery",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"If you have the versatile trickster feature, it gains the following additional benefits: the creature has disadvantage on attack rolls against you until the start of your next turn and forces it to make a concentration check if it currently is concentrating on a spell. In addition, you can cast mage hand as part of the same bonus action used to make your mage hand distract."
+		]
+	},
+	{
+		"name": "Boon of Magical Ambush",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"When using your magical ambush feature,  the disadvantage to the saving throw applies even after you are no longer hidden. In addition, you can cast invisibility without spending a spell slot, and can recast it after taking a short or long rest."
+		]
+	},
+	{
+		"name": "Boon of Battle Mastery",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"If you have battle maneuvers, you learn two additional maneuvers of your choice, you gain another superiority die, and you gain the relentless class feature, if you already have it, you gain an additional superiority dice when it triggers. "
+		]
+	},
+	{
+		"name": "Boon of Supreme Battle Superiority",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"If you have battle maneuvers, you learn two additional ones of your choice, and its dice increases by one step, if you already have it at 1d12, it increases to 2d8. In addition your know your enemy feature can be used to give all the characteristics instead of just two and you can activate it as a reaction. If you don't have the feature, you gain it."
+		]
+	}
+]
+}

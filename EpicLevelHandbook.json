@@ -6,10 +6,10 @@
 				"abbreviation": "ELHB",
 				"full": "Epic Level Handbook",
 				"authors": [
-					"saricmaxim"
+					"halragon"
 				],
 				"version": "1.0.0",
-				"url": "https://github.com/Test",
+				"url": "https://github.com/halgaron/ELHB/blob/main/EpicLevelHandbook.json",
 				"targetSchema": "1.0.0"
 			}
 		],

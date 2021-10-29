@@ -1,8 +1,10 @@
 **Boon of Attunement**
+
 You gain the ability to have one additional magic item attunement. You also gain the ability to attune or unattune to any number of items during a short rest even while identifying an object.
 
 
 Boon of Armored Skin
+
 Parts of your skin are covered by hardened material such as scales, chitin, toughened hide, etc.  When you aren't wearing armor, your AC equals 15 + your Dexterity modifier. If you already have a class or racial ability that grants a similar feature, such as unarmored defense or draconic resilience  increase its AC benefit by 2. 
 
 

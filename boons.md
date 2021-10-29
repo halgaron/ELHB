@@ -1,4 +1,4 @@
-Boon of Attunement
+**Boon of Attunement**
 You gain the ability to have one additional magic item attunement. You also gain the ability to attune or unattune to any number of items during a short rest even while identifying an object.
 
 

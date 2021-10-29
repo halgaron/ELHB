@@ -708,7 +708,7 @@
 		"page": 0,
 		"type": "Boon",
 		"entries": [
-			"You can use your channel divinity feature to cast the {@spell Negative Energy Flood| XGE} Spell. If you have the Destroy Undead Feature, a creature of that CR or less automatically fails the saving throw. "
+			"You can use your channel divinity feature to cast the Negative Energy Flood Spell. For ever 2 levels past 21, the damage dice increases by 1. If you have the Destroy Undead Feature, a creature of that CR or less automatically fails the saving throw."
 		]
 	},
 	{

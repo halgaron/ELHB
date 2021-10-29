@@ -1,6 +1,4 @@
-**Boon of Attunement**
 
-You gain the ability to have one additional magic item attunement. You also gain the ability to attune or unattune to any number of items during a short rest even while identifying an object.
 
 
 **Boon of Armored Skin**
@@ -327,7 +325,7 @@ If you cast a spell as a bonus action, you are not restricted in casting another
 
 **Boon of Unholy Burst**
 
-You can use your channel divinity feature to cast the Negative Energy Flood Spell . If you have the Destroy Undead Feature, a creature of that CR or less automatically fails the saving throw. 
+You can use your channel divinity feature to cast the Negative Energy Flood Spell. For ever 2 levels past 21, the damage dice increases by 1. If you have the Destroy Undead Feature, a creature of that CR or less automatically fails the saving throw. 
 
 **Boon of Damage Penetration (Might not be needed)**
 
@@ -444,24 +442,6 @@ When taking the attack action, you can instead cast a spell from a wand or staff
 
  You can wield weapons that are one size category larger than you without penalty. For example, you could wield an ogre's club (2d8). 
 
-**Boon of Legendary Concentration**
-
-You can maintain concentration on up to two spells at a time.
-
-
-**Boon of Legendary Expertise**
-
- If you have the expertise feature, You have expertise in all skills and tools that you are proficient with.
-
-
-**Boon of Legendary Resistance**
-
-If you fail a saving throw, you can choose to succeed instead. You can use this ability up to 3 times and regain all uses after a long rest.
-
-**Boon of Improved Channel Divinity**
-
-You gain two additional uses of channel divinity and if you start an encounter without a channel divinity, you gain the use of one. 
-
 **Boon of Great Charisma**
 
 You increase your Charisma score by 4, up to a maximum of 30. 
@@ -486,6 +466,30 @@ You increase your Strength score by 4, up to a maximum of 30.
 
 You increase your Wisdom score by 4, up to a maximum of 30. 
 
+ # Non Converted Boons 2
+
+
+**Boon of Attunement**
+
+You gain the ability to have one additional magic item attunement. You also gain the ability to attune or unattune to any number of items during a short rest even while identifying an object.
+
+**Boon of Legendary Concentration**
+
+You can maintain concentration on up to two spells at a time.
+
+
+**Boon of Legendary Expertise**
+
+ If you have the expertise feature, You have expertise in all skills and tools that you are proficient with.
+
+
+**Boon of Legendary Resistance**
+
+If you fail a saving throw, you can choose to succeed instead. You can use this ability up to 3 times and regain all uses after a long rest.
+
+**Boon of Improved Channel Divinity**
+
+You gain two additional uses of channel divinity and if you start an encounter without a channel divinity, you gain the use of one. 
 
 
 # Fighter Specific Boons 2

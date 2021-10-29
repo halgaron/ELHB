@@ -23,104 +23,132 @@ Antitoxin: Grants immunity to poison effects and disease for 1 hour.
 Choose one of your spells of 1st through 3rd level that has a casting time of 1 action. That spell's casting time is now 1 bonus action for you. 
 
 **Boon of Subtle Casting**
+
 All of your spells of 1st through 3rd level are altered to not have any somatic or verbal components. 
 
 **Boon OF Enemy BANE**
+
 Prerequisite: Favored Enemy Class feature
 Any time you roll a damage roll against one of your favored enemies, the weapon, spell or effect deals an extra 2d6 damage and bypasses any of the creature's damage resistances.
 
 **Boon of Bestial Companionship**
+
 Prerequisite: Trained in Animal Handling and Nature 
 You gain the Ranger's companion class feature with the following alterations:
 There is no size limitation category of the companion, and the challenge rating of the creature can increase to a CR of up to 1/4th of your level or lower. 
 
 **Boon of Monstrous Wild Shape**
+
 Prerequisite: Wild Shape Class feature
 You can wild shape to take the form of a monstrosity. The maximum challenge rating you can shift into is your level divided by 3, rounded down.
 
 **Boon of Blinding Speed**
+
 As a reaction, you can choose to act as if the haste spell was cast on you which lasts until the end of your turn, or up to five rounds. The five rounds need not be consecutive and maintaining this effect does not require concentration nor causes the typical wave of lethargy.  Once you do expend all your 5 rounds for the day, you can't activate this ability again until you finish a long rest.
 
 
 **Boon of Divinity**
+
 Choose a cleric domain or paladin oath related to your deity provided that you already have one. You now have access to that domain’s or oath’s spell list and channel divinity power(s). You also gain an additional use of channel divinity.
 
 **Boon of Chaotic Rage**
+
 Prerequisite: Rage class feature.
 You gain the Wild Surge class feature from the Wild Soul primal path. While in a rage, all damage dice rolled deals an extra 2d6 damage. 
 
 **Boon of Combat Archery**
+
 While wielding a ranged weapon, you can take an opportunity attack with the ranged weapon against any enemy who moves within 30 feet of you. 
 Developer Notes; The original feat only said "you do not incur any attacks of opportunity for firing a bow while threatened"  Not incurring opportunity attacks is a terrible idea since so many abilities and stuff already do that. 
 
 
 **Boon of Legendary Crafting**
+
 You gain the recipes needed to craft 3 magic items of your choice. In addition, when crafting normal or magical items, the time in workweeks required to make the item is reduced by 90%.
 Developer notes: Not the most powerful, but not terrible either.
 
 **Boon of Deafening Song**
+
 Whenever you activate your Bardic Inspiration Die, you can cause all enemies to be deafened for up to a minute unless they succeed on a constitution saving throw with a  DC equal to 8 + your proficiency bonus + your charisma modifier. While deafened with this ability, affected creatures initiative  is immediately lowered by 4 and any spells cast with a verbal component require a standard concentration check to cast successfully. 
 
 
 **Boon of Enemy Death**
+
 Prerequisite: Favored Enemy Class feature
 Any time you score a critical hit against one of your favored enemies, it must make a fortitude saving throw DC 8+Prof+Str or Dex) or take 6d6 additional damage/half damage on a successful save.
 
 **Boon of Devastating Critical**
+
 Choose a weapon type such as (axe/spear/whip/sword/etc). Any time you score a critical hit with your chosen weapon type, the creature must make a fortitude saving throw (DC 8+Prof+Str or Dex) or take 6d6 additional damage/half damage on a successful save. 
 
 **Boon of Dexterous Fortitude**
+
 Your slippery mind feature grants the following benefit: When targeted by an effect that requires a Strength or Constitution or saving throw, you may make a Dexterity saving throw instead to avoid the effect (evasion does not apply). You can only use this ability once per round.
 
 **Boon of Dexterous Will**
+
 Your slippery mind feature grants the following benefit: When targeted by an effect that requires a Wisdom or Charisma saving throw, you may make a Dexterity saving throw instead to avoid the effect (evasion does not apply). You can only use this ability once per round.
 
 **Boon of Dire Charge**
+
 If you take the dash action as an action and end your movement within melee reach of an opponent, you can take the attack action as a bonus action.
 
 **Boon of Distant Shot**
+
 You may throw a thrown weapon or fire a ranged weapon at any target within sight, with no penalty for range.
 
 **Boon of Draconic Wild Shape**
+
 Prerequisite: Wild Shape Class feature
 You can use your wild shape feature to take the form of a dragon. The maximum challenge rating you can shift into is your level divided by 3, rounded down.
 
 **Boon of the Frostblood**
+
 You have immunity to cold damage. You can also cast cone of cold (save DC 15) without using a spell slot or any components. Once you cast the spell in this way, you can't cast it again until you take a short rest.
 
 **Boon of Corrosive Might**
+
 You have immunity to acid damage. You can also cast Vitriolic Sphere (save DC 15) without using a spell slot or any components. Once you cast the spell in this way, you can't cast it again until you take a short rest.
 
 **Boon of Enhanced Spells**
+
 Whenever you cast a spell and increase its additional effects with a higher level spell slot, you determine the effects as if you had used a spell slot 1 level higher.
 
 Note: due to collapsing Enhanced domain spells to. Have two abilities, this is now not as useful. Granted this applies to any spell vs just domain spells, so it kinda is ok balance wise. If you stack them you get 2 spell levels which is rediculous. 
 
 **Boon of Epic Dodge**
+
 Prerequisite: Uncanny Dodge class feature, 20 dexterity 
 Whenever you use your uncanny dodge class feature, you impose disadvantage on the triggering attack roll. If the attack misses, you can make it target another creature within 5 feet of you.
 
 Designer Notes: This is a very amazing and flavorful solution. OP? maybe but it’s a reaction and a gamble since someone could roll 2 high rolls. Its like a self defense.  As a side note, if the rogue has elusive/blindsense it should stack so it wouldn’t require you to see to gain the benefits of uncanny dodge anymore.
 
 **Boon of Legendary Endurance**
+
 Whenever you make a saving throw against an effect that can cause exhaustion, you gain a +10 bonus to the roll. You also do not fall unconscious when you fall to 0 hit points.
 
 **Boon of Epic Inspiration**
+
 Whenever you utilize your bardic inspiration or song of rest class features, you get to roll an extra die for the feature's effect.
 
 **Boon of Epic Reflexes** 
+
 You suffer no negative effects from the prone condition and can instantly stand up from without spending any movement speed. You also have advantage on Dexterity saving throws.
 
 **Boon OF Epic Reputation**
+
 You gain Advantage to all Charisma Checks.
 
 **Boon OF Epic Skill Focus**
+
 Choose a skill, you gain a +10 bonus to checks with that skill and you can use the skill as a bonus action instead of an action.
 
 **Boon of Spell Focus**
+
 Choose a school of magic, creatures who make saving throws against spells you cast of the school of magic you selected have disadvantage on their saving throws. 
  
 **Boon OF Spell Penetration**
+
 Enemies that are targeted by your spells do not gain the benefit of spell resistance.
 
 Designer Notes; This is a sensitive topic, because there is no + bonus to spells in the game. Granting disadvantage to all abilities is op, +6 DC is insane, but fair, because an epic **Boon = +2 stat or more. You could argue spell penetration is ridiculous since it nullfiies epic advantage which most creatures have anyway. So you could say +3 bonus to DC and attack rolls from that school. Pretty OP, but close. Or you can make it a 1/encounter ability which intensifies but Is stupid. Giving disadvantage is a risk, but ill take it so its roughly on par with spell penetration, since if the creature doesn't have it, or deos have it, the caster can focus in one school and still have the same efforts. And if the creature doesn't have magic resistance even better, but just 1 school.  Note: people think 1/rest = good 
@@ -129,6 +157,7 @@ May 9th 2021 note: Apparently Tasha's has items that increase attack/dc now. I t
 
 
 **Boon of Epic Spellcasting**
+
 You gain a level 10 spell slot. This spell slot can be used to prepare/know a spell effect.  This can duplicate the effect of any spell with the following changes: 
 The Spell’s range is up to 150 feet. 
 If it deals damage or heals, the numeric effect is against a single target 18d10 (100) and 15d6 (52) if against multiple targets. 
@@ -136,6 +165,7 @@ The duration of the spell is doubled.
 				
 					
 **Boon of Epic Weapon Specialization**
+
 Choose one specific type of weapon, (Longsword, Battleaxe, Dagger, etc). You gain advantage to all attack rolls and deal maximum damage on damage rolls made with your chosen weapon.
 
 
@@ -487,6 +517,7 @@ If you have battle maneuvers, you learn two additional ones of your choice.  its
 Arcane Trickster Features:
 
 **Boon of Arcane Trickery**
+
 If you have the mage hand legdermain feature, you gain an extra known spell and an extra spell slot equal to the highest level than you can cast with arcane trickster. Your mage hand also gains the following additional benefits: 
 	• You can have the hand assist in casting spells on your behalf: Which can include the following (doing the somatic components of a spell while your hands are full, originating the spell's effect from its location, deliver a touch attack, etc)
 	• You can command the hand to attack with a weapon it is currently holding as if you were attacking with it.

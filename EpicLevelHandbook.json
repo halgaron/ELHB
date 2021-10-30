@@ -67,18 +67,66 @@
 ],
 "table": [
 	{
-		"name": "Magic Table E1",
-		"isShown": false,
-		"source": "ELHB",
-		"page": 100,
-		"items": [
+		"name": "Magic Item Table E1",
+		"source": "DMG",
+		"page": 145,
+		"type": "E1",
+		"table": [
 			{
-				"row": "Potion of Supreme Healing",
-				"weight": "50"
+				"min": 1,
+				"max": 50,
+				"item": "{@item Potion of Supreme Healing}"
 			},
 			{
-				"row": "Potion of Superior Invisibility",
-				"weight": "50"
+				"min": 51,
+				"max": 100,
+				"item": "{@item Potion of Invisibility}"
+			}
+		
+		]
+	},
+	{
+		"name": "Magic Item Table E2",
+		"source": "DMG",
+		"page": 145,
+		"type": "E2",
+		"table": [
+			{
+				"min": 1,
+				"max": 30,
+				"item": "{@item Spell Scroll (8th level)}",
+				"spellLevel": 8
+			},
+			{
+				"min": 31,
+				"max": 55,
+				"item": "{@item Potion of Storm Giant Strength}"
+			},
+			{
+				"min": 56,
+				"max": 70,
+				"item": "{@item Potion of Supreme Healing}"
+			},
+			{
+				"min": 71,
+				"max": 85,
+				"item": "{@item Spell Scroll (9th level)}",
+				"spellLevel": 9
+			},
+			{
+				"min": 86,
+				"max": 93,
+				"item": "{@item Universal Solvent}"
+			},
+			{
+				"min": 94,
+				"max": 98,
+				"item": "{@item Arrow of Slaying}"
+			},
+			{
+				"min": 99,
+				"max": 100,
+				"item": "{@item Sovereign Glue}"
 			}
 		]
 	}

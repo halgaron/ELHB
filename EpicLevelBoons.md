@@ -188,7 +188,7 @@ You regain 3 hit points every round at the start of your turn, provided that you
 
 When you wild shape into a form, you can increase the size of your form up to gargantuan. For every size category increased you gain the following benefits: you gain an extra damage die and your reach increases by 5 feet, and your hit dice increases by one step.
 
-**Boon of Great smiting**
+**Boon of Great Smiting**
 
 Whenever you deal damage with your divine smite feature or a smite related spell, deal double the smite damage dice even if it takes you past the maximum. 
 
@@ -466,6 +466,8 @@ You increase your Strength score by 4, up to a maximum of 30.
 
 You increase your Wisdom score by 4, up to a maximum of 30. 
 
+
+
  # Non Converted Boons 2
 
 
@@ -491,6 +493,9 @@ If you fail a saving throw, you can choose to succeed instead. You can use this 
 
 You gain two additional uses of channel divinity and if you start an encounter without a channel divinity, you gain the use of one. 
 
+**Boon of Resiliency**
+You gain proficiency with all saving throws. 
+
 
 # Fighter Specific Boons 2
 
@@ -498,9 +503,9 @@ You gain two additional uses of channel divinity and if you start an encounter w
 
 You gain an additional use of second wind. In addition, your second wind's effectiveness is always the maximum dice roll and doubled. 
 
-**Boon of Martial Mastery (Fighter)**
+**Boon of Martial Mastery (Fighter,Ranger,Paladin)**
 
- You gain an additional fighting style available to you, otherwise you gain the fighting style and martial versatility feature from fighters if you already do not have one. Your martial versatility feature can be used every short rest. 
+ You gain two additional fighting styles available to you. If you have the martial versatility feature, it can be used every short rest. 
 
 **Boon of Relentless Strikes (Fighter)**
 

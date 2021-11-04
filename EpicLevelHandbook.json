@@ -1058,7 +1058,7 @@
 		"page": 0,
 		"type": "Boon",
 		"entries": [
-			"You gain an additional two fighting styles available to you, otherwise you gain two fighting style feature from the fighter class if you already do not have one. In addition, if you have the martial versatility feature, it can be used every short rest. "
+			" You gain two additional fighting styles available to you. If you have the martial versatility feature, it can be used every short rest."
 		]
 	},
 	{
@@ -1185,6 +1185,15 @@
 		"type": "Boon",
 		"entries": [
 			"If you have battle maneuvers, you learn two additional ones of your choice, and its dice increases by one step, if you already have it at 1d12, it increases to 2d8. In addition your know your enemy feature can be used to give all the characteristics instead of just two and you can activate it as a reaction. If you don't have the feature, you gain it."
+		]
+	},
+	{
+		"name": "Boon of Resiliency",
+		"source": "ELHB",
+		"page": 0,
+		"type": "Boon",
+		"entries": [
+			"You gain proficiency with all saving throws."
 		]
 	}
 ]

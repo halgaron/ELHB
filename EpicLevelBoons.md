@@ -252,9 +252,7 @@ When taking the attack action with a ranged weapon, you can instead choose to ma
  When using the metamagic class feature, reduce the amount of sorcery points required to use the option by 1 (This cannot reduce the cost below one sorcery point). In addition, when using metamagic options that have original costs of 1 sorcery point, you can choose to use two for the cost of one sorcery point. 
 
 
-**Boon of Epic Sneak Attack**
 
-Your Sneak Attack Class feature's damage increases by 4d6. You can also sneak attack even if you have disadvantage on your attack roll.
 
 **Boon of Spell Capacity**
 
@@ -523,6 +521,10 @@ If you have battle maneuvers, you learn two additional ones of your choice.  its
 
 **Rogue Specific Boons (Rogue)**
 
+**Boon of Epic Sneak Attack**
+
+Your Sneak Attack Class feature's damage increases by 4d6. You can also sneak attack even if you have disadvantage on your attack roll.
+
 Arcane Trickster Features:
 
 **Boon of Arcane Trickery**
@@ -540,6 +542,8 @@ If you have the versatile trickster feature, it gains the following additional b
 **Boon of Magical Ambush**
 
 When using your magical ambush feature,  the disadvantage to the saving throw applies even after you are no longer hidden. In addition, you can cast invisibility without spending a spell slot, and can recast it after taking a short or long rest.
+
+# Barbarian Specific Boons
 
 
 # Work in Progress or random ideas 2
